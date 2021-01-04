@@ -56,5 +56,3 @@ Substitua o texto em negrito, pelos dados reais da sua página:
 <meta property=”fb:admins” content=”Facebook numeric ID” />
 
 ```
-
-<meta property=”fb:admins” content=”Facebook numeric ID” /> 
